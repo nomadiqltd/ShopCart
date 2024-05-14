@@ -1,0 +1,11 @@
+{
+  "response": {
+    "id": 1,
+    "categoryid": 1,
+    "name": "Smartphone",
+    "price": 500,
+    "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+    "cashback_percentage": 10,
+    "item_url": "https://random.imagecdn.app/600/400"
+  }
+}

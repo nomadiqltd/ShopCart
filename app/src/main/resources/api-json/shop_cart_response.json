@@ -1,0 +1,348 @@
+{
+  "categories": [
+    {
+      "category_id": 1,
+      "label": "Electronics"
+    },
+    {
+      "category_id": 2,
+      "label": "Clothing"
+    },
+    {
+      "category_id": 3,
+      "label": "Books"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category_id": 1,
+      "name": "Smartphone",
+      "price": 500,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 10,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 2,
+      "category_id": 1,
+      "name": "Laptop",
+      "price": 1000,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 8,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 3,
+      "category_id": 1,
+      "name": "Tablet",
+      "price": 300,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 5,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 4,
+      "category_id": 1,
+      "name": "Headphones",
+      "price": 50,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 3,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 5,
+      "category_id": 1,
+      "name": "Smartwatch",
+      "price": 150,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 6,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 6,
+      "category_id": 2,
+      "name": "T-Shirt",
+      "price": 20,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 5,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 7,
+      "category_id": 2,
+      "name": "Jeans",
+      "price": 50,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 7,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 8,
+      "category_id": 2,
+      "name": "Dress",
+      "price": 80,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 8,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 9,
+      "category_id": 2,
+      "name": "Sneakers",
+      "price": 70,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 6,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 10,
+      "category_id": 3,
+      "name": "Novel",
+      "price": 10,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 2,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 11,
+      "category_id": 3,
+      "name": "Textbook",
+      "price": 80,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 6,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 12,
+      "category_id": 3,
+      "name": "Cookbook",
+      "price": 30,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 4,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 13,
+      "category_id": 1,
+      "name": "Camera",
+      "price": 700,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 9,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 14,
+      "category_id": 1,
+      "name": "Printer",
+      "price": 150,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 7,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 15,
+      "category_id": 1,
+      "name": "Gaming Console",
+      "price": 400,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 8,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 16,
+      "category_id": 1,
+      "name": "Wireless Earbuds",
+      "price": 120,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 6,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 17,
+      "category_id": 2,
+      "name": "Jacket",
+      "price": 100,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 5,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 18,
+      "category_id": 2,
+      "name": "Skirt",
+      "price": 40,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 3,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 19,
+      "category_id": 2,
+      "name": "Hoodie",
+      "price": 60,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 4,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 20,
+      "category_id": 2,
+      "name": "Sweater",
+      "price": 50,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 6,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 21,
+      "category_id": 3,
+      "name": "Poetry",
+      "price": 15,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 2,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 22,
+      "category_id": 3,
+      "name": "Biography",
+      "price": 25,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 3,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 23,
+      "category_id": 3,
+      "name": "History",
+      "price": 20,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 4,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 24,
+      "category_id": 1,
+      "name": "Monitor",
+      "price": 200,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 5,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 25,
+      "category_id": 1,
+      "name": "External Hard Drive",
+      "price": 80,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 4,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 26,
+      "category_id": 1,
+      "name": "Router",
+      "price": 50,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 3,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 27,
+      "category_id": 1,
+      "name": "Mouse",
+      "price": 20,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 2,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 28,
+      "category_id": 2,
+      "name": "Shorts",
+      "price": 30,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 4,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 29,
+      "category_id": 2,
+      "name": "Socks",
+      "price": 5,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 1,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    },
+    {
+      "id": 30,
+      "category_id": 2,
+      "name": "Belt",
+      "price": 15,
+      "description": "\"lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum, lorem ipsum...loreum ipsum, loreum ipsum,lorem ipsum...loreum ipsum, loreum ipsum, \"",
+      "cashback_percentage": 3,
+      "lead_image_urls": [
+        "https://random.imagecdn.app/600/400"
+      ]
+    }
+  ]
+}

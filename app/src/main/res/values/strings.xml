@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jam Doughnut</string>
+    <string name="toolbar_title_text">Back</string>
+
+    <!-- Toolbar Items-->
+    <string name="toolbar_title_header">Jam Doughnut</string>
+
+    <!-- Feed -->
+    <string name="feed_header_title">Header Title</string>
+    <string name="feed_header_cta">View All</string>
+
+    <!-- Channel Items -->
+    <string name="channel_item_title_default">jamdoughnut</string>
+</resources>
