@@ -24,7 +24,7 @@ Follow these steps to run the app:
    ```bash
    git clone https://github.com/nomadiqltd/jamdoughnut.git
 
-2. - On Github, check out the 'main' branch.
+2. - On Github, check out the 'master' branch.
 
 3. - Select _Build_ -> _Rebuild Project_ and then select _Run_ after the project successfully builds.
 
