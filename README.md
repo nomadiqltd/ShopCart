@@ -22,8 +22,8 @@ Follow these steps to run the app:
 1. **Clone the Repository**: -> Clone this GitHub repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/nomadiqltd/jamdoughnut.git
-
+   git clone git@github.com:nomadiqltd/ShopCart.git
+   
 2. - On Github, check out the 'master' branch.
 
 3. - Select _Build_ -> _Rebuild Project_ and then select _Run_ after the project successfully builds.
